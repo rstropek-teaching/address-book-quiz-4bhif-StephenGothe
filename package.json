@@ -1,0 +1,30 @@
+{
+  "name": "address-book-quiz-4bhif-stephengothe",
+  "version": "1.0.0",
+  "description": "In this exercise, you have to implement RESTful Web API for maintaining a contact list.",
+  "main": "index.js",
+  "dependencies": {
+    "http-status-codes": "^1.3.0",
+    "restify": "^6.3.4",
+    "restify-errors": "^5.0.0",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/http-status-codes": "^1.0.29",
+    "@types/restify": "^5.0.6",
+    "@types/restify-errors": "^4.3.2"
+  },
+  "scripts": {
+    "start": "tsc && node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstropek-teaching/address-book-quiz-4bhif-StephenGothe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstropek-teaching/address-book-quiz-4bhif-StephenGothe/issues"
+  },
+  "homepage": "https://github.com/rstropek-teaching/address-book-quiz-4bhif-StephenGothe#readme"
+}
